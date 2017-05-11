@@ -8,4 +8,4 @@ This blog is intended to present simple mathematical problems, where providing c
 
 Each problem will be presented with an explanation as well as a template Coq file providing the necessary definitions and goals.  After about a week or so, I'll submit a Coq file containing a solution along with a detailed explanation.
 
-Any feedback or suggestions for problems is very much welcome.
+Feedback or problem suggestions are very much welcome.
