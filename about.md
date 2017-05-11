@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is intended to present simple mathematical problems, where providing constructive and fully formalized solutions presents a fun challenge. My intention is that each problem should be solvable in little time with a little bit of effort and creativity. Throughout this blog, I will stick to using the proof assistant Coq.
 
-### More Information
+Each problem will be presented with an explanation as well as a template Coq file providing the necessary definitions and goals.  After about a week or so, I'll submit a Coq file containing a solution along with a detailed explanation.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Any feedback or suggestions for problems is very much welcome.
