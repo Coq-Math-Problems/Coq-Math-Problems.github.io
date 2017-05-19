@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Problem #1 Solution"
+title: "Problem #2 Solution"
 ---
 
 *[Problem #2 is here](https://coq-math-problems.github.io/Problem2/)*
