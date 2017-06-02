@@ -43,7 +43,7 @@ Of course, we can't make this assumption, but we can slightly modify `f` so this
 
 **Surjection to injection**
 
-We will prove and use a lemma which says that `Fin n` cannot surjection onto `Fin (S n)`:
+We will prove and use a lemma which says that `Fin n` cannot surject onto `Fin (S n)`:
 
 ` Lemma no_surj_n_Sn : forall (n : nat)(f : Fin n -> Fin (S n)), surj f -> False.`
 
