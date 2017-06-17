@@ -19,4 +19,8 @@ Now we can prove our main theorem.  Suppose `f : nat -> X + Y`.  We will let `ha
 
 Using the previous lemma applied to `hat_l f`, we can find a pair of numbers `i_0,j_0` such that `hat_l f i_0 = hat_l f j_0`.  By looking at the "tail" of `f` past `i_0,j_0` we can find a new pair `i_1,j_1`; and repeating this process, we can via recursion define a subsequence which lists the `i`'s produced by this process.
 
+![decr]({{ site.baseurl }}/images/seq.jpg)
+
+*The basic idea*
+
 Now, using the streamlessless of `unit + Y`, we can find `i_k` and `i_l` whose values match when forgetting the `X` values.  Now check `f i_k` and `f i_l`; if they are both `Y` elements we are done.  Thuse suppose one of them (WLOG `i_k`) is an `X` value; by virtue of the way the sequence of `i`'s was generated, we can use `i_k` and `j_k` as our pair of distinct numbers.
